@@ -1,4 +1,4 @@
-#Exploratory Data Analysis
+<h1>Exploratory Data Analysis</h1>
 
 <p>This project performs a detailed analysis of Retails saled data to identify <strong>which types of customers spend the most.</strong>The Analysis focuses on several factors including <strong>gender,age group, state, occupation, product category, and marital status</strong>
 <br>
